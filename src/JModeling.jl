@@ -3,5 +3,6 @@
 #
 module JModeling
 
+include("Optimizations/Products/SimpleProductOptimization.jl")
 
 end
