@@ -3,6 +3,6 @@
 #
 module JModeling
 
-include("Optimizations/Products/SimpleProductOptimization.jl")
+include("Optimizations/StaticProductOptimization.jl")
 
 end
