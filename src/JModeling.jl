@@ -3,6 +3,8 @@
 #
 module JModeling
 
-include("Optimizations/StaticProductOptimization.jl")
+include("Optimizations/Linear/ProductOptimization.jl")
+include("Optimizations/Linear/DietProblem/DietOptimization.jl")
+
 
 end

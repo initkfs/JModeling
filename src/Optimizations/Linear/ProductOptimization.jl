@@ -1,7 +1,7 @@
 #
 # Author: initkfs 2023
 #
-module StaticOptimization
+module StaticProductOptimization
 
 using JuMP, Clp, Test
 
